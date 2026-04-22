@@ -1,0 +1,5 @@
+Model,CV_ROC_AUC_Mean,CV_ROC_AUC_Std
+Logistic Regression,0.7687,0.053
+Decision Tree,0.6319,0.0308
+Random Forest,0.7894,0.0375
+Gradient Boosting,0.7781,0.0352
