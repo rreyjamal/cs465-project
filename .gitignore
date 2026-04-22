@@ -66,3 +66,7 @@ tmp/
 *_backup
 *.bak
 *.backup
+
+# Local notes (not for repo)
+paper/
+presentation/
