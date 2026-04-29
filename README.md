@@ -64,10 +64,6 @@ cs465-credit-risk-ml-project/
 │   ├── figures/                # Plots and visualizations
 │   ├── tables/                 # Result tables
 │   └── metrics/                # Model performance metrics
-├── paper/
-│   └── paper_notes.md          # Paper writing guidance
-├── presentation/
-│   └── presentation_outline.md # Presentation structure
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # This file
 └── .gitignore                  # Git ignore file
@@ -179,8 +175,6 @@ This project is part of the CS465 Machine Learning course and follows undergradu
 
 - Clean, documented, modular code
 - Reproducible experiments with fixed random seeds
-- Academic writing support via `paper/paper_notes.md`
-- Presentation materials via `presentation/presentation_outline.md`
 - Proper evaluation methodology including balanced metrics for imbalanced data
 
 ## Potential Extensions
