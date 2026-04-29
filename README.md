@@ -124,7 +124,6 @@ python -c "from src.data_preprocessing import load_german_credit; df = load_germ
 - **Modular**: Clean separation of concerns across reusable `src/` modules
 - **Comprehensive**: Full pipeline from EDA to explainability analysis
 - **Robust paths**: Notebook uses `pathlib` for reliable cross-platform file saving
-- **Academic**: Paper notes and presentation outline included
 
 ## Results Summary
 
